@@ -5,5 +5,5 @@
 # Project_2
 HTML/CSS/Flask
 
-Same as <p scr = https://github.com/NiuNai25/Project_1> Project_1 <p>    but with Flask
+Same as [Project_1]([https://github.com/NiuNai25/Project_1]) but with Flask
 
